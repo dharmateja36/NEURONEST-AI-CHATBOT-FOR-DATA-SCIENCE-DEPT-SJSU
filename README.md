@@ -3,11 +3,11 @@ Neuronest: Advancing Applied Sciences at San Jose State University with State-of
 
 Welcome to Neuronest, an innovative AI chatbot meticulously crafted to cater to the distinctive needs of the Applied Sciences department at San Jose State University (SJSU). Leveraging cutting-edge Large Language Models (LLMs) and generative AI techniques, Neuronest empowers students and faculty alike with intuitive and efficient interaction capabilities.
 
-Project Overview:
+## Project Overview:
 
 Neuronest is fueled by a meticulously curated dataset sourced from the official SJSU website, meticulously extracted and cleansed using advanced data scraping techniques facilitated by Selenium. Our team's dedication to data cleanliness ensures optimal model readiness, laying the groundwork for sophisticated AI-driven interactions.
 
-Key Components:
+## Key Components:
 
 Data Acquisition and Cleansing: The foundation of Neuronest is laid within the GenerateQA.ipynb file, where raw data scraping and subsequent cleansing techniques are meticulously executed. This critical preprocessing stage ensures that the dataset is primed for advanced model ingestion.
 
