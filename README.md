@@ -1,5 +1,5 @@
 # NEURONEST-AI-CHATBOT-FOR-DATA-SCIENCE-DEPT-SJSU
-Neuronest: Advancing Applied Sciences at San Jose State University with State-of-the-Art AI Chatbot
+## Neuronest: Advancing Applied Sciences at San Jose State University with State-of-the-Art AI Chatbot
 
 Welcome to Neuronest, an innovative AI chatbot meticulously crafted to cater to the distinctive needs of the Applied Sciences department at San Jose State University (SJSU). Leveraging cutting-edge Large Language Models (LLMs) and generative AI techniques, Neuronest empowers students and faculty alike with intuitive and efficient interaction capabilities.
 
