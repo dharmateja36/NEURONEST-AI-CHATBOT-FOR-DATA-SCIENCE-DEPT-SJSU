@@ -15,9 +15,9 @@ Question-Answer Generation: Within the confines of the same GenerateQA.ipynb fil
 
 Modeling and Optimization: Neuronest's core functionality is brought to life through a series of advanced modeling techniques, each meticulously implemented within dedicated Jupyter notebooks.
 
-GPT Fine-Tuning: Explore the nuances of fine-tuning GPT3.5 to suit the intricacies of SJSU's domain-specific needs in the GPT_Fine_tuned.ipynb file.
+GPT Fine-Tuning: Explore the nuances of fine-tuning GPT3.5 to suit the complexities of SJSU's domain-specific needs in the GPT_Fine_tuned.ipynb file.
 
-LLama2 Integration: Delve into the intricacies of integrating the LLama2 model for enhanced performance in the llama_7b_fine_tuning.ipynb file.
+LLama2 Integration: Delve into the complexity of integrating the LLama2 model for enhanced performance in the llama_7b_fine_tuning.ipynb file.
 
 Hybrid Model Implementation: Experience the unparalleled effectiveness of Neuronest's hybrid approach, seamlessly blending the power of GPT and RAG models to achieve superior performance. Witness this synergy firsthand within the RAG_GPT.ipynb file.
 
